@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecipeFinder", "src\RecipeFinder\RecipeFinder.csproj", "{46767E63-5DED-456C-A5B8-50BB4816C87C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecipeFinder.Client", "src\RecipeFinder.Client\RecipeFinder.Client.csproj", "{4ED7B914-AFFE-4EC2-AD3A-133E1643B142}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46767E63-5DED-456C-A5B8-50BB4816C87C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46767E63-5DED-456C-A5B8-50BB4816C87C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46767E63-5DED-456C-A5B8-50BB4816C87C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46767E63-5DED-456C-A5B8-50BB4816C87C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED7B914-AFFE-4EC2-AD3A-133E1643B142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED7B914-AFFE-4EC2-AD3A-133E1643B142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED7B914-AFFE-4EC2-AD3A-133E1643B142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED7B914-AFFE-4EC2-AD3A-133E1643B142}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F66CB88-BCF5-4D67-9C32-90501763BEFE}
+	EndGlobalSection
+EndGlobal
